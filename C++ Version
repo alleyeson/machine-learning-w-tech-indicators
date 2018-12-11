@@ -1,3 +1,12 @@
+//
+//  main.cpp
+//  NN_Tech_Ind 516 Project
+//
+//  Created by Allison Emono on 11/7/18.
+//  Copyright © 2018 Allison Emono. All rights reserved.
+
+// NN portion from Dave Miller blog on Neural Networks
+
 #include <vector>
 #include <iostream>
 #include <cstdlib>
